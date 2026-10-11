@@ -1,0 +1,6 @@
+{
+  "name": "AuraPharma - e-Detailing & Field Force CRM",
+  "description": "Enterprise pharmaceutical CRM for interactive e-detailing, doctor call frequency tracking, KOL management, visual aid page administration, patch and user assignment, sample inventory, and sales target achievement analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
